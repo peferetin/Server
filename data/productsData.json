@@ -1,0 +1,182 @@
+[
+    {
+        "_id": "6659c597fc13ae3dc0c63404",
+        "name": "Silk Dress",
+        "price": 1500,
+        "quantity": 10,
+        "description": "A beautiful silk dress perfect for formal occasions.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631e9"
+    },
+    {
+        "_id": "6659c597fc13ae3dc0c63405",
+        "name": "Eau de Parfum Royale",
+        "price": 250,
+        "quantity": 50,
+        "description": "A luxurious fragrance with notes of jasmine and vanilla.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631ea"
+    },
+    {
+        "_id": "6659c597fc13ae3dc0c63406",
+        "name": "Leather Designer Belt",
+        "price": 800,
+        "quantity": 25,
+        "description": "A premium leather belt with a gold-plated buckle.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631eb"
+    },
+    {
+        "_id": "6659c597fc13ae3dc0c63407",
+        "name": "Classic Wool Coat",
+        "price": 2500,
+        "quantity": 5,
+        "description": "A timeless wool coat that exudes sophistication.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631e9"
+    },
+    {
+        "_id": "6659c597fc13ae3dc0c63408",
+        "name": "Mystic Oud",
+        "price": 500,
+        "quantity": 30,
+        "description": "An enchanting blend of oud, rose, and amber.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631ea"
+    },
+    {
+        "_id": "6659c597fc13ae3dc0c63409",
+        "name": "Suede Embellished Belt",
+        "price": 950,
+        "quantity": 20,
+        "description": "A suede belt adorned with Swarovski crystals.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631eb"
+    },
+    {
+        "_id": "6659c597fc13ae3dc0c63410",
+        "name": "Velvet Evening Gown",
+        "price": 3000,
+        "quantity": 7,
+        "description": "A luxurious velvet gown perfect for evening occasions.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631e9"
+    },
+    {
+        "_id": "6659c597fc13ae3dc0c63411",
+        "name": "Citrus Bloom",
+        "price": 180,
+        "quantity": 60,
+        "description": "A refreshing citrus blend with floral undertones.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631ea"
+    },
+    {
+        "_id": "6659c597fc13ae3dc0c63412",
+        "name": "Python Skin Belt",
+        "price": 1200,
+        "quantity": 15,
+        "description": "A high-end belt crafted from genuine python skin.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631eb"
+    },
+    {
+        "_id": "6659c597fc13ae3dc0c63413",
+        "name": "Cashmere Sweater",
+        "price": 1200,
+        "quantity": 12,
+        "description": "A soft and luxurious cashmere sweater.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631e9"
+    },
+    {
+        "_id": "6659c597fc13ae3dc0c63414",
+        "name": "Silk Scarf",
+        "price": 850,
+        "quantity": 20,
+        "description": "A luxurious silk scarf with a signature Gucci pattern.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631ec"
+    },
+    {
+        "_id": "6659c597fc13ae3dc0c63415",
+        "name": "Floral Essence",
+        "price": 300,
+        "quantity": 45,
+        "description": "A delightful floral fragrance perfect for any occasion.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631ea"
+    },
+    {
+        "_id": "6659c597fc13ae3dc0c63416",
+        "name": "Studded Leather Belt",
+        "price": 1300,
+        "quantity": 30,
+        "description": "A stylish leather belt with elegant studs.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631eb"
+    },
+    {
+        "_id": "6659c597fc13ae3dc0c63417",
+        "name": "Designer Jeans",
+        "price": 1200,
+        "quantity": 15,
+        "description": "High-quality jeans with a unique designer touch.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631e9"
+    },
+    {
+        "_id": "6659c597fc13ae3dc0c63418",
+        "name": "Midnight Passion",
+        "price": 450,
+        "quantity": 50,
+        "description": "A captivating fragrance for those special nights.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631ea"
+    },
+    {
+        "_id": "6659c597fc13ae3dc0c63419",
+        "name": "Diamond-Encrusted Belt",
+        "price": 5000,
+        "quantity": 5,
+        "description": "A luxurious belt encrusted with diamonds.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631eb"
+    },
+    {
+        "_id": "6659c597fc13ae3dc0c63420",
+        "name": "Embroidered Blazer",
+        "price": 3500,
+        "quantity": 10,
+        "description": "An exquisite blazer with intricate embroidery.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631e9"
+    },
+    {
+        "_id": "6659c597fc13ae3dc0c63421",
+        "name": "Ocean Breeze",
+        "price": 380,
+        "quantity": 60,
+        "description": "A fresh and invigorating fragrance with oceanic notes.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631ea"
+    },
+    {
+        "_id": "6659c597fc13ae3dc0c63422",
+        "name": "Classic Leather Belt",
+        "price": 1000,
+        "quantity": 25,
+        "description": "A timeless leather belt for any occasion.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631eb"
+    },
+    {
+        "_id": "6659c597fc13ae3dc0c63423",
+        "name": "Cashmere Cardigan",
+        "price": 2200,
+        "quantity": 8,
+        "description": "A cozy cashmere cardigan perfect for chilly days.",
+        "images": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+        "categoryId": "6659c4cee10537ef19a631ee"
+    }
+]

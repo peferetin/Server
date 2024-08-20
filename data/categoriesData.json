@@ -1,0 +1,52 @@
+[
+    {
+        "_id": "6659c4cee10537ef19a631f2",
+        "name": "Handbags",
+        "description": "Exquisite designer handbags crafted from the finest materials."
+    },
+    {
+        "_id": "6659c4cee10537ef19a631f3",
+        "name": "Watches",
+        "description": "Luxury timepieces with precision craftsmanship and elegant designs."
+    },
+    {
+        "_id": "6659c4cee10537ef19a631f4",
+        "name": "Jewelry",
+        "description": "High-end jewelry featuring diamonds, gemstones, and precious metals."
+    },
+    {
+        "_id": "6659c4cee10537ef19a631f5",
+        "name": "Shoes",
+        "description": "Designer shoes made for comfort and style."
+    },
+    {
+        "_id": "6659c4cee10537ef19a631f6",
+        "name": "Sunglasses",
+        "description": "Fashionable sunglasses with UV protection and stylish frames."
+    },
+    {
+        "_id": "6659c4cee10537ef19a631f7",
+        "name": "Wallets",
+        "description": "Luxurious wallets crafted from fine leather and other premium materials."
+    },
+    {
+        "_id": "6659c4cee10537ef19a631f8",
+        "name": "Hats",
+        "description": "Designer hats suitable for all seasons and occasions."
+    },
+    {
+        "_id": "6659c4cee10537ef19a631f9",
+        "name": "Ties",
+        "description": "Elegant ties made from silk and other high-quality fabrics."
+    },
+    {
+        "_id": "6659c4cee10537ef19a631fa",
+        "name": "Gloves",
+        "description": "Luxury gloves for warmth and style."
+    },
+    {
+        "_id": "6659c4cee10537ef19a631fb",
+        "name": "Umbrellas",
+        "description": "Stylish umbrellas with durable construction and elegant designs."
+    }
+]
